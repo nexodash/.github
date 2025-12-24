@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nexodash/.github/main/assets/logo.png" alt="NexoDash" width="200">
+<img src="https://raw.githubusercontent.com/nexodash/.github/main/assets/logo.svg" alt="NexoDash" width="200">
 
 # NexoDash LLC
 
