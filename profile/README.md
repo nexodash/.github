@@ -2,36 +2,58 @@
 
 <img src="https://raw.githubusercontent.com/nexodash/.github/main/assets/logo.svg" alt="NexoDash" width="200">
 
-# NexoDash LLC
+# NexoDash
 
-### Enterprise Appointment Management Platform
+**Plataforma all-in-one para negocios de servicios**
+
+Website + Booking + CRM en un solo lugar
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-nexodash.com-22c55e?style=for-the-badge)](https://nexodash.com)
-[![Status](https://img.shields.io/badge/Status-Production-22c55e?style=for-the-badge)](https://nexodash.com)
+[![Website](https://img.shields.io/badge/nexodash.com-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexodash.com)
+[![Status](https://img.shields.io/badge/Pre--launch-eab308?style=for-the-badge)](https://nexodash.com)
 
 </div>
 
 ---
 
-## About
+## Que es NexoDash
 
-NexoDash empowers service-based businesses with enterprise-grade scheduling technology. Our platform serves beauty salons, barbershops, spas, wellness centers, and professional service providers.
+SaaS para negocios de servicios (barberias, salones, spas, gyms) que combina tres cosas que ningun competidor ofrece juntas:
 
-**Core Platform:**
-- Online appointment booking with intelligent availability
-- Staff management and scheduling
-- Customer portal (PWA)
-- Integrated payments via Stripe
-- Automated notifications and reminders
-- Business analytics and reporting
+| | |
+|---|---|
+| **Website builder** | Editor de diseno real con subdominios (`tunegocio.nexodash.com`) |
+| **Booking online** | Disponibilidad inteligente, pagos con Stripe, confirmaciones automaticas |
+| **CRM** | Gestion de clientes, staff, citas, paquetes y analytics |
 
-## Tech Stack
+## Diferenciadores
 
-`Next.js 15` · `React 19` · `TypeScript` · `Prisma` · `PostgreSQL` · `Redis` · `Tailwind CSS`
+- **Spanish-first**: i18n nativo desde dia cero, no agregado despues
+- **Website builder real**: editor de diseno, no solo templates
+- **Multi-tenant**: cada negocio con su subdominio, datos aislados server-side
 
-## Leadership
+## Mercado
+
+| | |
+|---|---|
+| TAM | $546M (2025) → $1.52B (2032) |
+| Foco inicial | US Hispanic + LATAM |
+| Competencia | Fresha, Booksy, Vagaro, Square, GlossGenius |
+| HQ | Miami, FL |
+
+## Stack
+
+| Capa | Tecnologia |
+|------|-----------|
+| Frontend | Next.js 16, React 19, Tailwind CSS v4 |
+| Backend | Next.js API routes, Prisma, PostgreSQL |
+| Infra | Vercel, Upstash Redis, Supabase Storage |
+| CI/CD | GitHub Actions, policy gates, automated checks |
+| Monorepo | pnpm workspaces, Turborepo |
+| AI dev team | Claude (CTO/advisor) + Codex (developer) |
+
+## Equipo
 
 | | |
 |:-:|:-:|
@@ -41,10 +63,8 @@ NexoDash empowers service-based businesses with enterprise-grade scheduling tech
 
 <div align="center">
 
-**Empowering local service businesses with enterprise-grade technology**
+**Tecnologia enterprise para negocios locales de servicios**
 
-<br>
-
-[Website](https://nexodash.com) · [Contact](mailto:info@nexodash.com)
+[nexodash.com](https://nexodash.com) · [info@nexodash.com](mailto:info@nexodash.com)
 
 </div>
